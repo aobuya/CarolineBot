@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874485102382",
+    "firebase_url": "https://newagent-14733.firebaseio.com",
+    "project_id": "newagent-14733",
+    "storage_bucket": "newagent-14733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874485102382:android:cbb99b769cef1b1c",
+        "android_client_info": {
+          "package_name": "com.example.beast.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874485102382-hetucmmbcohhvsrsd84n63po78d8ujad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beast.chatbot",
+            "certificate_hash": "d8e95d7d55cf3b8d0defcc9bb6f8a2ae57e1ed8e"
+          }
+        },
+        {
+          "client_id": "874485102382-oepbp5i134qp2tu7iuq87vrcp9t9nnrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1txtmqU9MCENNccFasiL7CH3l3-cE6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874485102382-oepbp5i134qp2tu7iuq87vrcp9t9nnrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

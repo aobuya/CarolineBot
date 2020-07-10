@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Caroline Chatbot</string>
+    <string name="you">You matter</string>
+    <string name="logo">Abbas</string>
+    <string name="skip">skip</string>
+    <string name="next">Next</string>
+    <string name="welcome">Health Line</string>
+    <string name="bot">Abbas Bot</string>
+
+    <string name="info4">Here have a look at what Caroline can help treat and help you diagnose.</string>
+    <string name="info5">call for emergency 0721225285 or (020)2210000</string>
+
+    <string name="info">Caroline can deliver unparalled access to healthcare information</string>
+    <string name="info2">Get personalised health assessments, treatment advice 24/7</string>
+    <string name="treat">What we treat</string>
+    <string name="settings">Settings</string>
+
+</resources>
